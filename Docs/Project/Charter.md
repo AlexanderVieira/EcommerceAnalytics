@@ -35,6 +35,7 @@ width=72 height=72>
 - [REFERÊNCIAS](#referências)
 - [APÊNDICE A – Título do apêndice](#apêndice-a--título-do-apêndice)
 - [ANEXO A – Título do anexo](#anexo-a--título-do-anexo)
+- [ESTRUTURA REPOSITÓRIO](#estrutura-repositório)
 
 ## RESUMO
 
@@ -87,3 +88,5 @@ A organização possui ecommerce para vendas online.
 ## APÊNDICE A – Título do apêndice
 
 ## ANEXO A – Título do anexo
+
+## ESTRUTURA REPOSITÓRIO
