@@ -1,37 +1,42 @@
-**INSTITUTO INFNET**
+<p align="center">
+  <a href="https://example.com/">
+    <img src="https://via.placeholder.com/72" alt="Logo" 
+width=72 height=72>
+  </a>
 
-**ENGENHARIA DE COMPUTAÇÃO**
+  <h3 align="center">INSTITUTO INFNET</h3>
 
-**ALEXANDER VIEIRA DA SILVA**
+  <p align="center">
+    <strong>ENGENHARIA DE COMPUTAÇÃO</strong>
+    <br>
+    <strong>ALEXANDER VIEIRA DA SILVA</strong>
+    <br>
+    <strong>BLOCO: IoT e DATA SCIENCE</strong>
+  </p>
+</p>
 
-**PROJETO DE BLOCO:**
-**IoT e DATA SCIENCE**
-
-**ECOMMERCE ANALYTICS**
-
-**RIO DE JANEIRO-RJ**
-
-**2021**
 ****
+
+- [RESUMO](#RESUMO)
+- [1. INTRODUÇÃO](#INTRODUÇÃO)
+- [1.1. MOTIVAÇÃO](#MOTIVAÇÃO)
+- [1.2. OBJETIVOS](#OBJETIVOS)
+- [2. CENÁRIO ATUAL](#CENÁRIO-ATUAL)
+- [3. ETAPAS PARA DESCOBERTA DE CONHECIMENTO](#ETAPAS-PARA-DESCOBERTA-DE-CONHECIMENTO)
+- [3.1. BASE DE DADOS](#BASE-DE-DADOS)
+- [3.2. SELEÇÃO DOS DADOS](#SELEÇÃO-DOS-DADOS)
+- [3.3. PROCESSAMENTO](#PROCESSAMENTO)
+- [3.4. TRANSFORMAÇÃO](#TRANSFORMAÇÃO)
+- [3.5 MINERAÇÃO DOS DADOS](#MINERAÇÃO-DOS-DADOS)
+- [3.6 INTERPRETAÇÃO E AVALIAÇÃO](#INTERPRETAÇÃO-E-AVALIAÇÃO)
+- [4 CONCLUSÃO (SEÇÃO PRIMÁRIA)](#CONCLUSÃO-SEÇÃO-PRIMÁRIA)
+- [REFERÊNCIAS](#REFERÊNCIAS)
+- [APÊNDICE A – Título do apêndice](#APÊNDICE)
+- [ANEXO A – Título do anexo](#ANEXO)
+
 **RESUMO**
 
-1   INTRODUÇÃO</br>
-1.1 MOTIVAÇÃO</br>
-1.2 OBJETIVOS</br>
-2   CENÁRIO ATUAL</br>
-3   ETAPAS PARA DESCOBERTA DE CONHECIMENTO</br>
-3.1 BASE DE DADOS</br>
-3.2 SELEÇÃO DOS DADOS</br>
-3.3 PROCESSAMENTO</br>
-3.4 TRANSFORMAÇÃO</br>
-3.5 MINERAÇÃO DOS DADOS</br>
-3.6 INTERPRETAÇÃO E AVALIAÇÃO</br>
-4   CONCLUSÃO (SEÇÃO PRIMÁRIA)</br>
-REFERÊNCIAS</br>
-APÊNDICE A – Título do apêndice</br>
-ANEXO A – Título do anexo</br>
-
-**1 INTRODUÇÃO**
+**1. INTRODUÇÃO**
 
 <p style='text-align: justify;'>O projeto de sistema embarcado depende de diversas questões que são analisadas desde aspectos de mercado até as ações tecnológicas de implementação. Este tópico inicia uma breve introdução dos conceitos relativos ao projeto de sistema eletrônico com ênfase às ferramentas de apoio ao projeto. No processo de compra atual, especialmente no empregado em supermercados, as filas no caixa consomem uma parcela significativa do tempo gasto na compra. Sendo assim, proponho um Sistema Embarcado chamado carrinho de compras inteligente integrado a inteligência artificial, aplicando algoritmo de machine learning, a fim de prever tendências, bem como auxiliar na tomada de decisão.</p>
 
@@ -49,7 +54,7 @@ A organização possui ecommerce para vendas online.
 
 **3 ETAPAS PARA DESCOBERTA DE C**
 
-**3.1 BASE DE DADOS**
+**BASE DE DADOS**
 
 - olist_customers_dataset.csv
 - olist_geolocation_dataset.csv
