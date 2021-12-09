@@ -90,3 +90,22 @@ A organização possui ecommerce para vendas online.
 ## ANEXO A – Título do anexo
 
 ## ESTRUTURA REPOSITÓRIO
+
+```text
+EcommerceAnalytics/
+├── Code/
+│    └── DataPrep/
+│    └── Model/
+│    │    └── Experiment1/
+│    │    └── Experiment2/
+│    │    └── Final/
+│    └── Operationalization/
+├── Data/
+│     ├── Modeling
+│     └── Processed
+│     └── Raw
+└──Docs/
+    └── Project/
+    └── Model/
+    └── DataReport/    
+```
