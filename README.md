@@ -11,7 +11,7 @@ width=72 height=72>
     <br>
     <strong>ALEXANDER VIEIRA DA SILVA</strong>
     <br>
-    <strong>BLOCO: IoT e DATA SCIENCE</strong>
+    <strong>PROJETO DE BLOCO: IoT e DATA SCIENCE</strong>
     <br>
     <strong>2021</strong>
   </p>
