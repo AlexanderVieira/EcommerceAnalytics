@@ -34,8 +34,8 @@ width=72 height=72>
 **Documentação**
 
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Project/Charter.md">Projeto</a>
-- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/DataReport/dataReport.md">Relatório base de dados</a>
-- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Model/Readme.txt">Relatório do modelo</a>
+- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/DataReport/DataDictionary.md">Relatório base de dados</a>
+- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Model/ModelReports.md">Relatório do modelo</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/tree/master/Data/Raw">Banco de dados</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Code/DataPrep/EcommerceAnalytics.ipynb">Pré-processamento</a>
 - <a href="https://github.com/AlexanderVieira/SmartStoreSPA#readme">Front-end (SPA)</a>
