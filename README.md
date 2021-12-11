@@ -29,7 +29,6 @@ width=72 height=72>
 - [Agradecimentos](#agradecimentos)
 - [Direitos e licença](#direitos-e-licença)
 
-
 ## Começo rápido
 
 **Documentação**
@@ -37,6 +36,8 @@ width=72 height=72>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Project/Charter.md">Projeto</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/DataReport/Readme.txt">Relatório base de dados</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Model/Readme.txt">Relatório do modelo</a>
+- <a href="https://github.com/AlexanderVieira/SmartStoreSPA#readme">Front-end (SPA)</a>
+- <a href="https://github.com/AlexanderVieira/SmartStoreASPNETCoreWebApi#readme">Back-end (WEB-API REST)</a>
 
 ## Cenário atual
 
