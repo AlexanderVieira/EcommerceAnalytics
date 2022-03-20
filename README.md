@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" 
-width=72 height=72>
+  ![](infnet.PNG)
   </a>
 
   <h3 align="center">INSTITUTO INFNET</h3>
@@ -13,10 +11,11 @@ width=72 height=72>
     <br>
     <strong>PROJETO DE BLOCO: IoT e DATA SCIENCE</strong>
     <br>
-    <strong>2021</strong>
+    <strong>2022</strong>
   </p>
 </p>
 
+_Fonte: [A base de dados pode ser acessada no Kaggle](https://www.kaggle.com/code/anshumoudgil/olist-ecommerce-analytics-quasi-poisson-poly-regs/)_
 ## Índice
 
 - [Índice](#índice)
