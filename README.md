@@ -1,7 +1,5 @@
-<p align="center">
-  ![](infnet.PNG)
-  </a>
-
+  ![](infnet.PNG?style=centerme)
+  
   <h3 align="center">INSTITUTO INFNET</h3>
 
   <p align="center">
