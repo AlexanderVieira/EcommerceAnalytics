@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" 
-width=72 height=72>
-  </a>
+ <img src="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/infnet.png" width="150" >
+</p>
 
   <h3 align="center">INSTITUTO INFNET</h3>
 
@@ -13,7 +11,7 @@ width=72 height=72>
     <br>
     <strong>PROJETO DE BLOCO: IoT e DATA SCIENCE</strong>
     <br>
-    <strong>2021</strong>
+    <strong>2022</strong>
   </p>
 </p>
 
