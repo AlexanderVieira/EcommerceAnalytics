@@ -37,6 +37,7 @@ width=72 height=72>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/DataReport/DataDictionary.md">Relatório base de dados</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Model/ModelReports.md">Relatório do modelo</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/tree/master/Data/Raw">Banco de dados</a>
+- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Data/Processed/processed.md">Datasets processados</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Code/DataPrep/eda.ipynb">Pré-processamento</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Code/Operationalization/ReadMe.md">Operacões</a>
 - <a href="https://github.com/AlexanderVieira/SmartStoreSPA#readme">Front-end (SPA)</a>
