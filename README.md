@@ -34,6 +34,7 @@ _Fonte: [A base de dados pode ser acessada no Kaggle](https://www.kaggle.com/cod
 
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Project/Charter.md">Projeto</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/DataReport/DataDictionary.md">Relatório base de dados</a>
+- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/DataReport/DQRS.md">Relatório de qualidade</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Model/ModelReports.md">Relatório do modelo</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/tree/master/Data/Raw/raw.md">Datasets</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Data/Processed/processed.md">Datasets processados</a>
