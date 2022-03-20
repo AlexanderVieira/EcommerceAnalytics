@@ -1,5 +1,9 @@
+{:.center}
+![](infnet.png)  
 
-![](infnet.png#center)
+.center {
+  text-align: center;
+}
 
   <h3 align="center">INSTITUTO INFNET</h3>
 
