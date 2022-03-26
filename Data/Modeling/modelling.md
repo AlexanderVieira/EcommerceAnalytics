@@ -6,4 +6,4 @@
 | Models xgb 2 | [xgb.sav](xgb.sav) | 88 | [Models Set 2 Report](link/to/report2)|
 | Models random_forest 3 | [random_forest.sav](random_forest.sav) | 3,232 | [Models Set 2 Report](link/to/report2)|
 | Models auto_arima_model 4 | [auto_arima_model.sav](auto_arima_model.sav) | 1,574 | [Models Set 2 Report](link/to/report2)|
-| Models prophet 5 | [auto_arima_model.sav](model_prophet.sav) | 1,574 | [Models Set 2 Report](link/to/report2)|
+| Models prophet 5 | [model_prophet.sav](model_prophet.sav) | 1,574 | [Models Set 2 Report](link/to/report2)|
