@@ -26,4 +26,9 @@ _Master:_
 ![](codigo_fonte_master.PNG)
 
 _Slave:_
-![](codigo_fonte_master.PNG)
+![](codigo_fonte_slave.PNG)
+
+_Fonte: [Web-API](https://github.com/AlexanderVieira/SmartStoreASPNETCoreWebApi#readme)_
+
+_Controller:_
+![](controller_notifications.PNG)
