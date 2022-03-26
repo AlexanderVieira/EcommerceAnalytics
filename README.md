@@ -35,12 +35,12 @@ _Fonte: [A base de dados pode ser acessada no Kaggle](https://www.kaggle.com/cod
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Project/Charter.md">Projeto</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/DataReport/DataDictionary.md">Relatório base de dados</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/DataReport/DQRS.md">Relatório de qualidade</a>
-- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Model/ModelReports.md">Relatório do modelo</a>
-- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/tree/master/Data/Raw/raw.md">Datasets</a>
-- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Data/Processed/processed.md">Datasets processados</a>
+- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/Model/ModelReports.md">Relatório dos modelos</a>
+- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/tree/master/Data/Raw/raw.md">Conjunto de dados absolutos</a>
+- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Data/Processed/processed.md">Conjunto de dados processados</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Data/Modeling/modelling.md">Modelos</a>
-- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Code/DataPrep/eda.ipynb">Pré-processamento</a>
-- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Code/Model/Experiment1/ecommerce_analytics.ipynb">Código fonte modelo</a>
+- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Code/DataPrep/eda.ipynb">Pré-processamento (EDA)</a>
+- <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Code/Model/Experiment1/model_evaluation.ipynb">Avaliação de modelos</a>
 - <a href="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Code/Operationalization/ReadMe.md">Operacões</a>
 - <a href="https://github.com/AlexanderVieira/SmartStoreSPA#readme">Front-end (SPA)</a>
 - <a href="https://github.com/AlexanderVieira/SmartStoreASPNETCoreWebApi#readme">Back-end (WEB-API REST)</a>
