@@ -51,7 +51,7 @@
 
 ## 2 CENÁRIO ATUAL
 
-A organização possui ecommerce para vendas online.
+Empresa do mercado varejista com vendas online. 
 
 ## 3 ETAPAS PARA DESCOBERTA DE CONHECIMENTO
 
