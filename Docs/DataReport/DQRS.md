@@ -1,7 +1,7 @@
 # Relatório de Qualidade
 
-_Dados absolutos faltantes_
+_Dados absolutos faltantes ou incosistentes_
 
 ### Datasets Absolutos
 
-[datasets absolutos](./datasets_absolutos.ipynb)
+[Clique aqui](./datasets_absolutos.ipynb)
