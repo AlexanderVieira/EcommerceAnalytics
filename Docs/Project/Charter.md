@@ -1,109 +1,62 @@
-<p align="center">
- <img src="https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/infnet.png" width="150" >
-</p>
+# Projeto
 
-  <h3 align="center">INSTITUTO INFNET</h3>
+## Entendimento do Negócio
 
-  <p align="center">
-    <strong>ENGENHARIA DE COMPUTAÇÃO</strong>
-    <br>
-    <strong>ALEXANDER VIEIRA DA SILVA</strong>
-    <br>
-    <strong>PROJETO DE BLOCO: IoT e DATA SCIENCE</strong>
-    <br>
-    <strong>2022</strong>
-  </p>
-</p>
+* A Olist é uma loja de departamentos (marketplace) brasileira que atua no segmento de e-commerce, mas não é um e-commerce em si (como ela diz). Atua como uma empresa de tecnologia SaaS (Software as a Service) desde 2015. Oferece uma solução de marketplace (do segmento de e-commerce) para lojistas de todos os portes (e para a maioria dos segmentos) para aumentar suas vendas com presença online ou não. Lojas física com sistemas embarcados para automatizar processo de compra e evitar filas, através de sensores instalados nos carrinhos de compras, que geram dados de pedidos enviados às APIs.
 
-****
+* Depois que um cliente compra o produto da Olist Store, um vendedor é notificado para atender esse pedido. Assim que o cliente recebe o produto, ou vence a data prevista de entrega, o cliente recebe uma pesquisa de satisfação por e-mail onde pode dar uma nota da experiência de compra e anotar alguns comentários.
 
-- [RESUMO](#resumo)
-- [1 INTRODUÇÃO](#1-introdução)
-- [1.1 MOTIVAÇÃO](#11-motivação)
-- [1.2 OBJETIVOS](#12-objetivos)
-- [2 CENÁRIO ATUAL](#2-cenário-atual)
-- [3 ETAPAS PARA DESCOBERTA DE CONHECIMENTO](#3-etapas-para-descoberta-de-conhecimento)
-- [3.1 BASE DE DADOS](#31-base-de-dados)
-- [3.2 SELEÇÃO DOS DADOS](#32-seleção-dos-dados)
-- [3.3 PROCESSAMENTO](#33-processamento)
-- [3.4 TRANSFORMAÇÃO](#34-transformação)
-- [3.5 MINERAÇÃO DOS DADOS](#35-mineração-dos-dados)
-- [3.6 INTERPRETAÇÃO E AVALIAÇÃO](#36-interpretação-e-avaliação)
-- [4 CONCLUSÃO (SEÇÃO PRIMÁRIA)](#4-conclusão-seção-primária)
-- [REFERÊNCIAS](#referências)
-- [APÊNDICE A – Título do apêndice](#apêndice-a--título-do-apêndice)
-- [ANEXO A – Título do anexo](#anexo-a--título-do-anexo)
-- [ESTRUTURA REPOSITÓRIO](#estrutura-repositório)
+## Escopo
 
-## RESUMO
+* Realizar (EDA) Análise Exploratória de Dados
+    * Dados faltantes
+    * Dados inconsistentes
+    * Visualização
+    * Remoção de Outliers
+    * Normalização e/ou Padronização
+    * Escalonamento
+    * Agrupamentos
+    * Merges
 
-## 1 INTRODUÇÃO
+* Machine Learning - Análise preditiva através de modelos treinados.
 
-<p style='text-align: justify;'>O projeto de sistema embarcado depende de diversas questões que são analisadas desde aspectos de mercado até as ações tecnológicas de implementação. Este tópico inicia uma breve introdução dos conceitos relativos ao projeto de sistema eletrônico com ênfase às ferramentas de apoio ao projeto. No processo de compra atual, especialmente no empregado em supermercados, as filas no caixa consomem uma parcela significativa do tempo gasto na compra. Sendo assim, proponho um Sistema Embarcado chamado carrinho de compras inteligente integrado a inteligência artificial, aplicando algoritmo de machine learning, a fim de prever tendências, bem como auxiliar na tomada de decisão.</p>
+* Agrupamento:
+    * Alguns clientes não escreveram uma avaliação. Mas por que eles estão felizes ou insatisfeitos?
+* Previsão de vendas:
+    * Com as informações de data de compra, poderemos prever vendas futuras.
+* Desempenho de entrega:
+    * Verificar o desempenho de entrega e encontrar maneiras de otimizar os tempos de entrega.
+* Qualidade do produto:
+    * Descobrir as categorias de produtos mais propensas à insatisfação do cliente.
 
-## 1.1 MOTIVAÇÃO
+## Contribuidores
+* Quem está neste projeto:
+	* Professor:
+		* Fernando Ferreira
+	
+	* Aluno:
+		* Alexander Silva	
+	
+## Métricas
+* Definir quais os objetivos qualitativos
+* Definir métricas quantificáveis
 
-<p style='text-align: justify;'>Realizar análise exploratório com auxílio de ferramentas para tratamento de dados como o pandas, numpy e afins, gerar um modelo machine learning para treinamento, teste e predição.</p>
+## Planejamento
+* 1ª Fase: Entendimento do domínio do negócios. Levantamento de requisitos.
+* 2ª Fase: Entendimento dos dados.
+* 3ª Fase: Preparação dos dados.
+* 4ª Fase: Modelagem. Criação dos modelos de michine learnig.
+* 5ª Fase: Avaliação dos modelos.
+* 6ª Fase: Implantação.
 
-## 1.2 OBJETIVOS
+## Arquitetura
+* Dados absolutos esperados.
+* Movimentação dos dados para nuvem.
+* Dados amostrados para modelagem.
+* Ferramentas e recursos para armazenamento.
+* Operacionalização de serviços web.
 
-<p style='text-align: justify;'>Tendo em vista o tempo empregado no registro de itens, o protótipo em questão tem como objetivo diminuir o tempo gasto no processo de compras, através da descentralização do processo de registro de itens nos caixas que é a parte mais demorada da compra, provocando descontentamento dos clientes e, consequentemente, perda de fidelidade, sendo assim, otimizar o processo, listar e somar os produtos adicionados pelo consumidor antes de chegarem ao caixa. Finalmente, apresentar o resultado processado em um dispositivo de saída, ressaltando que o sistema apresentado visa ser acoplável ao sistema existente na organização, além disso com auxílio da AI aplicar algoritmos de machine learning, a fim de realizar análise exploratória da base de dados, bem como gerar gráficos que apresentem estatísticas ou números sobre o negócio para predição e tomada de decisão.</p>
-
-## 2 CENÁRIO ATUAL
-
-Empresa do mercado varejista com vendas online. 
-
-## 3 ETAPAS PARA DESCOBERTA DE CONHECIMENTO
-
-## 3.1 BASE DE DADOS
-
-- olist_customers_dataset.csv
-- olist_geolocation_dataset.csv
-- olist_order_items_dataset.csv
-- olist_order_payments_dataset.csv
-- olist_order_reviews_dataset.csv
-- olist_orders_dataset.csv
-- olist_products_dataset.csv
-- olist_sellers_dataset.csv
-- product_category_name_translation.csv
-  
-## 3.2 SELEÇÃO DOS DADOS
-
-<p style='text-align: justify;'>A base escolhida para análise e predição será a olist_customers_dataset.csv</p>
-
-## 3.3 PROCESSAMENTO
-
-## 3.4 TRANSFORMAÇÃO
-
-## 3.5 MINERAÇÃO DOS DADOS
-
-## 3.6 INTERPRETAÇÃO E AVALIAÇÃO
-
-## 4 CONCLUSÃO (SEÇÃO PRIMÁRIA)
-
-## REFERÊNCIAS
-
-## APÊNDICE A – Título do apêndice
-
-## ANEXO A – Título do anexo
-
-## ESTRUTURA REPOSITÓRIO
-
-```text
-EcommerceAnalytics/
-├── Code/
-│    └── DataPrep/
-│    └── Model/
-│    │    └── Experiment1/
-│    │    └── Experiment2/
-│    │    └── Final/
-│    └── Operationalization/
-├── Data/
-│     ├── Modeling
-│     └── Processed
-│     └── Raw
-└──Docs/
-    └── Project/
-    └── Model/
-    └── DataReport/    
-```
+## Communication
+* Reuniões semanais pelo Microsft Teams.
+* E-mails.
+* Whatsapp.
