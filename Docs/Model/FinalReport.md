@@ -22,6 +22,7 @@
 * Aplicação Web-API Restfull
 * SPA
 * Sistema embarcado
+* [Operacionalização](https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Code/Operationalization/ReadMe.md)
 
 ## Dados
 * [Relatório de dados](https://github.com/AlexanderVieira/EcommerceAnalytics/blob/master/Docs/DataReport/DataDictionary.md)
