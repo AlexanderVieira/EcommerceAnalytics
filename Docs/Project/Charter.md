@@ -17,15 +17,21 @@
     * Escalonamento
     * Agrupamentos
     * Merges
+    * Dumps
 
-* Machine Learning - Análise preditiva através de modelos treinados.
+* Machine Learning - Análise preditiva através de modelos treinados
+* Processamento Linguagem Natural - Análise de sentimentos
 
+* Clientes
+    * Com as informações dos clientes, poderemos criar insights, métricas de clientes cadastrados ou que colocaram produtos no carrinho.
 * Agrupamento:
     * Alguns clientes não escreveram uma avaliação. Mas por que eles estão felizes ou insatisfeitos?
 * Previsão de vendas:
     * Com as informações de data de compra, poderemos prever vendas futuras.
 * Desempenho de entrega:
     * Verificar o desempenho de entrega e encontrar maneiras de otimizar os tempos de entrega.
+* Logística
+    * Com as informações de data do pedido, poderemos prever quantidade de pedidos e itens vendidos
 * Qualidade do produto:
     * Descobrir as categorias de produtos mais propensas à insatisfação do cliente.
 
@@ -42,7 +48,7 @@
 * Definir métricas quantificáveis
 
 ## Planejamento
-* 1ª Fase: Entendimento do domínio do negócios. Levantamento de requisitos.
+* 1ª Fase: Entendimento do domínio do negócio. Levantamento de requisitos.
 * 2ª Fase: Entendimento dos dados.
 * 3ª Fase: Preparação dos dados.
 * 4ª Fase: Modelagem. Criação dos modelos de michine learnig.
@@ -53,7 +59,9 @@
 * Dados absolutos esperados.
 * Movimentação dos dados para nuvem.
 * Dados amostrados para modelagem.
-* Ferramentas e recursos para armazenamento.
+* Ferramentas: pandas, numpy, pickel, sklearn e afins
+* Liguagem: Phyton
+* Recursos para armazenamento.
 * Operacionalização de serviços web.
 
 ## Communication
